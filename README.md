@@ -44,6 +44,7 @@ M1RM1 -> command
 ## Running the Application
 
 npm start
+To run in test environment execut: npm run start:dev
 
 ## Running Test Cases
 
