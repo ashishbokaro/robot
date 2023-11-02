@@ -1,0 +1,30 @@
+{
+  "name": "robot",
+  "description": "",
+  "version": "1.0.0",
+  "main": "dist/src/fileRead.js",
+  "scripts": {
+    "start": " npm install && npm run build && node dist/src/fileRead.js",
+    "build": "rm -rf ./dist && tsc",
+    "test": "mocha dist/test_case/**/*.spec.js",
+    "test_report": "mocha dist/src/test_case/**/*.spec.js --reporter mochawesome --reporter-options reportDir=testCaseReport --require mochawesome/register"
+  },
+  "engines": {
+    "node": ">=13"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.9",
+    "@types/mocha": "^10.0.3",
+    "@types/node": "^20.8.10",
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "mochawesome": "^7.1.3",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
