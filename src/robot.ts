@@ -19,12 +19,14 @@ export default class Robot {
     }
 
     private moveForward(position: Position, widthSpace: number, heightSpace: number, count: number): void {
+        // console.log(position)
         switch (position.direction) {
             case 'N':
                 position.y = (position.y + count) % heightSpace;
                 break;
             case 'E':
                 position.x = (position.x + count) % widthSpace;
+                // console.log(position,widthSpace)
                 break;
             case 'S':
                 position.y = (position.y - count + heightSpace) % heightSpace;
