@@ -6,7 +6,7 @@
   "scripts": {
     "start": " npm install && npm run build && node dist/src/fileRead.js",
     "build": "rm -rf ./dist && tsc",
-    "test": "mocha dist/test_case/**/*.spec.js",
+    "test": "mocha dist/src/test_case/**/*.spec.js",
     "test_report": "mocha dist/src/test_case/**/*.spec.js --reporter mochawesome --reporter-options reportDir=testCaseReport --require mochawesome/register"
   },
   "engines": {
