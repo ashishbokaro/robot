@@ -1,5 +1,5 @@
 import * as fs from 'fs/promises';
-import { Robot } from './robot';
+import Robot from './robot';
 
 const widthSpace = 100;
 const heightSpace = 100;

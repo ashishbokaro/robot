@@ -1,6 +1,6 @@
 import chai from 'chai';
 import { describe, it } from 'mocha'; // You might need a testing framework like Mocha.
-import { Robot } from '../robot';
+import Robot from '../robot';
 
 const expect = chai.expect;
 

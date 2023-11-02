@@ -1,6 +1,6 @@
 import { Position } from './model/position'
 
-export class Robot {
+export default class Robot {
     private widthSpace: number;
     private heightSpace: number;
 
