@@ -33,19 +33,21 @@ describe('Robot', () => {
   });
 
   it('should handle boundary conditions correctly', () => {
-    const widthSpace = 5;
-    const heightSpace = 5;
+    const widthSpace = 10;
+    const heightSpace = 10;
 
     const testCases = [
-      { position: 'N 0 0', commands: 'M6', expected: 'N 0 1' },
-      { position: 'E 4 4', commands: 'M6', expected: 'E 0 4' },
-      { position: 'S 4 4', commands: 'M6', expected: 'S 4 3' },
+      { position: 'N 0 0', commands: 'M6', expected: 'N 0 6' },
+      { position: 'E 0 4', commands: 'M6', expected: 'E 10 4' },
+      { position: 'S 9 4', commands: 'M2', expected: 'S 4 3' },
+      { position: 'N 9 4', commands: 'M2', expected: 'N 9 6' },
+      { position: 'E 2 4', commands: 'M2', expected: 'E 4 4' }
     ];
 
     testCases.forEach((testCase) => {
       const robot = new Robot(widthSpace, heightSpace)
       const result = robot.executeCommands(testCase.position, testCase.commands);
-      console.log('boundary conditions correctly', result)
+      console.log('boundary conditions correctly', testCase.position, testCase.commands, result)
 
       expect(result).to.equal(testCase.expected);
     });

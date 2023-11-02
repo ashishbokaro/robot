@@ -1,92 +1,678 @@
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
 
+1.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
 
-0.)initial Position : N 0 0 and command is => M1RM4L3M2 => Final Position: S 4 99
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
 
-1.)initial Position : S 0 0 and command is => M1RM4L3M3 => Final Position: N 96 2
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
 
-2.)initial Position : E 0 0 and command is => M1RM4LR13M3 => Final Position: S 1 93
+1.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
 
-3.)initial Position : W 10 12 and command is => M1RM4LR13M3 => Final Position: N 9 19
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
 
-4.)initial Position : E 10 12 and command is => M1RM4LR13M3 => Final Position: S 11 5
+3.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
 
-0.)initial Position : N 0 0 and command is => M1RM4L3M2 => Final Position: S 4 99
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
 
-1.)initial Position : S 0 0 and command is => M1RM4L3M3 => Final Position: N 96 2
+1.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
 
-2.)initial Position : E 0 0 and command is => M1RM4LR13M3 => Final Position: S 1 93
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
 
-3.)initial Position : W 10 12 and command is => M1RM4LR13M3 => Final Position: N 9 19
+3.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
 
-4.)initial Position : E 10 12 and command is => M1RM4LR13M3 => Final Position: S 11 5
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
 
-0.) initial Position: N 0 0 and command is => M1RM4L3M2 => Final Position: N 4 3
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
 
-1.) initial Position: S 0 0 and command is => M1RM4L3M3 => Final Position: S 96 96
+1.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
 
-2.) initial Position: E 0 0 and command is => M1RM4LR13M3 => Final Position: N 1 99
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
 
-3.) initial Position: W 10 12 and command is => M1RM4LR13M3 => Final Position: S 9 13
+3.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
 
-4.) initial Position: E 10 12 and command is => M1RM4LR13M3 => Final Position: N 11 11
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
 
-0.) initial Position: N 0 0 and command is => M1RM4L3M2 => Final Position: S 4 99
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
 
-1.) initial Position: S 0 0 and command is => M1RM4L3M3 => Final Position: N 96 2
+1.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
 
-2.) initial Position: E 0 0 and command is => M1RM4LR13M3 => Final Position: S 1 93
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
 
-3.) initial Position: W 10 12 and command is => M1RM4LR13M3 => Final Position: N 9 19
+3.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
 
-4.) initial Position: E 10 12 and command is => M1RM4LR13M3 => Final Position: S 11 5
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
 
-0.) initial Position: N 0 0 and command is => M1RM4L3M2 => Final Position: S 4 99
+5.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
 
-1.) initial Position: S 0 0 and command is => M1RM4L3M3 => Final Position: N 96 2
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
 
-2.) initial Position: E 0 0 and command is => M1RM4LR13M3 => Final Position: S 1 93
+1.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
 
-3.) initial Position: W 10 12 and command is => M1RM4LR13M3 => Final Position: N 9 19
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
 
-4.) initial Position: E 10 12 and command is => M1RM4LR13M3 => Final Position: S 11 5
+3.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
 
-0.) initial Position: N 0 0 and command is => M1RM4L3M2 => Final Position: S 4 99
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
 
-1.) initial Position: S 0 0 and command is => M1RM4L3M3 => Final Position: N 96 2
+5.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
 
-2.) initial Position: E 0 0 and command is => M1RM4LR13M3 => Final Position: S 1 93
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
 
-3.) initial Position: W 10 12 and command is => M1RM4LR13M3 => Final Position: N 9 19
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
 
-4.) initial Position: E 10 12 and command is => M1RM4LR13M3 => Final Position: S 11 5
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
 
-0.) initial Position: N 0 0 and command is => M1RM4L3M2 => Final Position: S 4 99
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
 
-1.) initial Position: S 0 0 and command is => M1RM4L3M3 => Final Position: N 96 2
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
 
-2.) initial Position: E 0 0 and command is => M1RM4LR13M3 => Final Position: S 1 93
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
 
-3.) initial Position: W 10 12 and command is => M1RM4LR13M3 => Final Position: N 9 19
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
 
-4.) initial Position: E 10 12 and command is => M1RM4LR13M3 => Final Position: S 11 5
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
 
-0.) initial Position: N 0 0 and command is => M1RM4L3M2 => Final Position: S 4 99
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
 
-1.) initial Position: S 0 0 and command is => M1RM4L3M3 => Final Position: N 96 2
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
 
-2.) initial Position: E 0 0 and command is => M1RM4LR13M3 => Final Position: S 1 93
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
 
-3.) initial Position: W 10 12 and command is => M1RM4LR13M3 => Final Position: N 9 19
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
 
-4.) initial Position: E 10 12 and command is => M1RM4LR13M3 => Final Position: S 11 5
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
 
-0.) initial Position: N 0 0 and command is => M1RM4L3M2 => Final Position: S 4 99
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
 
-1.) initial Position: S 0 0 and command is => M1RM4L3M3 => Final Position: N 96 2
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
 
-2.) initial Position: E 0 0 and command is => M1RM4LR13M3 => Final Position: S 1 93
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
 
-3.) initial Position: W 10 12 and command is => M1RM4LR13M3 => Final Position: N 9 19
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
 
-4.) initial Position: E 10 12 and command is => M1RM4LR13M3 => Final Position: S 11 5
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => R3 => Final Position: E 2 5
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 9 4 and command is => M2 => Final Position: E 11 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 2 4 and command is => M2 => Final Position: E 4 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 2 4 and command is => M2 => Final Position: E 4 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 2 4 and command is => M2 => Final Position: E 4 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 2 4 and command is => M2 => Final Position: E 4 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 2 4 and command is => M2 => Final Position: E 4 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 2 4 and command is => M2 => Final Position: E 4 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 2 4 and command is => M2 => Final Position: E 4 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 2 4 and command is => M2 => Final Position: E 4 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 2 4 and command is => M2 => Final Position: E 4 4
+
+0.) initial Position: E 10 10 and command is => M1R4M5 => Final Position: E 16 10
+
+1.) initial Position: N 10 10 and command is => M1R4M1 => Final Position: N 10 12
+
+2.) initial Position: S 10 10 and command is => M1R4M5L1 => Final Position: E 10 4
+
+3.) initial Position: N 0 10 and command is => M1R1M5 => Final Position: E 5 11
+
+4.) initial Position: W 0 10 and command is => M1R2M5L1M4 => Final Position: N 4 14
+
+5.) initial Position: E 0 10 and command is => M1R4M8 => Final Position: E 9 10
+
+6.) initial Position: S 0 10 and command is => M1R3M4R2M6L1 => Final Position: S 98 9
+
+7.) initial Position: S 2 5 and command is => M3 => Final Position: S 2 2
+
+8.) initial Position: S 4 4 and command is => M6 => Final Position: S 4 98
+
+9.) initial Position: S 9 4 and command is => M2 => Final Position: S 9 2
+
+10.) initial Position: E 9 4 and command is => M6 => Final Position: E 15 4
+
+11.) initial Position: W 9 4 and command is => M62 => Final Position: W 47 4
+
+12.) initial Position: N 9 4 and command is => M2 => Final Position: N 9 6
+
+13.) initial Position: N 0 0 and command is => M6 => Final Position: N 0 6
+
+14.) initial Position: E 4 4 and command is => M6 => Final Position: E 10 4
+
+15.) initial Position: E 2 4 and command is => M2 => Final Position: E 4 4
 
