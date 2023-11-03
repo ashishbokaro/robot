@@ -1,4 +1,4 @@
-import { Position } from './model/position'
+import Position from './model/position'
 
 export default class Robot {
     constructor(private widthSpace: number, private heightSpace: number) { }
@@ -46,7 +46,7 @@ export default class Robot {
     public executeCommands(referencePosition: string, commands: string): string {
         const position = this.parsePosition(referencePosition);
 
-        const commandRegex = /([LRMB])(\d*)/g;
+        const commandRegex = /([LRM])(\d*)/g;
         let match: RegExpExecArray | null;
         while ((match = commandRegex.exec(commands))) {
             const action = match[1];

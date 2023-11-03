@@ -11,12 +11,12 @@ async function processInputFile(inputFileName: string, outputFileName: string): 
         lines = lines.filter(line => line.trim() !== '');
         console.log('lines', lines);
         let snNumber = 0;
+        let robot = new Robot(widthSpace, heightSpace)
 
         for (let i = 0; i < lines.length; i += 2) {
             if (i + 1 < lines.length) {
                 const refferncePosition = lines[i];
                 const command = lines[i + 1];
-                const robot = new Robot(widthSpace, heightSpace)
                 const finalPosition = robot.executeCommands(refferncePosition, command);
 
                 console.log('initial Position:', refferncePosition, 'and command is =>', command, '=> Final Position:', finalPosition);

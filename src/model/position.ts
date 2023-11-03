@@ -1,4 +1,4 @@
-export interface Position {
+export default interface Position {
     direction: string,
     x: number,
     y: number
