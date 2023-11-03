@@ -1,13 +1,7 @@
 import { Position } from './model/position'
 
 export default class Robot {
-    private widthSpace: number;
-    private heightSpace: number;
-
-    constructor(widthSpace: number, heightSpace: number) {
-        this.widthSpace = widthSpace;
-        this.heightSpace = heightSpace;
-    }
+    constructor(private widthSpace: number, private heightSpace: number) { }
 
     private parsePosition(positionString: string): Position {
         const [direction, x, y] = positionString.split(' ');
@@ -19,14 +13,12 @@ export default class Robot {
     }
 
     private moveForward(position: Position, widthSpace: number, heightSpace: number, count: number): void {
-        // console.log(position)
         switch (position.direction) {
             case 'N':
                 position.y = (position.y + count) % heightSpace;
                 break;
             case 'E':
                 position.x = (position.x + count) % widthSpace;
-                // console.log(position,widthSpace)
                 break;
             case 'S':
                 position.y = (position.y - count + heightSpace) % heightSpace;
